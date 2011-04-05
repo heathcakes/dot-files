@@ -1,3 +1,5 @@
+PS1="$PS1[\$(parse_git_branch)]"
+
 export CLICOLOR=1
 
 source ~/.completion/git.sh
