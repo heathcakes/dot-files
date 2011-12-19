@@ -1,6 +1,6 @@
 [user]
   name = Michael Heath
-  email = michael.heath@lonelyplanet.com.au
+  email = heathcakez@gmail.com
 [color]
   diff = auto
   status = auto
@@ -13,4 +13,4 @@
   df = diff
   lg = log -p
 [github]
-  user = Cakez
+  user = heathcakes
