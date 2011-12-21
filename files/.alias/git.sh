@@ -1,3 +1,4 @@
+alias gf='git fetch'
 alias ga='git add .'
 alias gc='git commit'
 alias gca='git commit --amend'
