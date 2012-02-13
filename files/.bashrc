@@ -4,6 +4,7 @@ export CLICOLOR=1
 
 source ~/.completion/git.sh
 source ~/.alias/git.sh
+source ~/.alias/gradle.sh
 source ~/.export/*.sh
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
