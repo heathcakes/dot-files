@@ -1,2 +1,2 @@
-export HTTPS_PROXY="http://sensis-proxy-vs.sensis.com.au:8080"
-export HTTP_PROXY=$HTTPS_PROXY
+export http_proxy=http://sensis-proxy-vs.sensis.com.au:8080
+export https_proxy="$http_proxy"
